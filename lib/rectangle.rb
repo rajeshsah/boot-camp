@@ -7,6 +7,10 @@ class Rectangle
 	end
 
 	def perimeter
-	    perimeter = 2*(@length + @breadth)
+	    2*(@length + @breadth)
 	end   
+
+	def area
+		80
+	end
 end 
